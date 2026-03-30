@@ -12,10 +12,11 @@ First year student at DA-IICT. Into competitive programming and building small t
 
 ## 📌 Projects
 
+## 📌 Projects
+
 | Project | What it does |
 |---|---|
-| [Wavebox](link) | Offline music player built with Electron + React |
-
+| [Wavebox](https://github.com/snehpatel05/Wavebox) | Offline music player built with Electron + React |
 ---
 
 ## 📈 Stats
