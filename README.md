@@ -15,9 +15,6 @@ First year student at DA-IICT. Into competitive programming and building small t
 | Project | What it does |
 |---|---|
 | [Wavebox](link) | Offline music player built with Electron + React |
-| [MediSphere](link) | Hospital management system in Python + Tkinter |
-| [Course Planner](link) | Prerequisite planner using graphs + topological sort (C++) |
-| [Expense Splitter](link) | Splits group expenses with a debt minimization algorithm |
 
 ---
 
@@ -30,3 +27,4 @@ First year student at DA-IICT. Into competitive programming and building small t
 ## 🔗 Links
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-snehpatel05-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/snehpatel05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-snehpatel05-orange?style=flat&logo=leetcode)](https://leetcode.com/snehpatel05)
